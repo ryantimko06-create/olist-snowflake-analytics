@@ -75,3 +75,5 @@ create or replace table category_translation (
     product_category_name          varchar,
     product_category_name_english  varchar
 );
+
+
