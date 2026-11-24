@@ -18,4 +18,6 @@ python run_sql.py sql/staging
 python run_sql.py sql/marts
 ```
 
+cohort heatmap is weak to say the least. will find some better avenues
+
 `sql/checks/dq_checks.sql` has the tests i ran after loading. completely optional though.
